@@ -9,7 +9,7 @@ public class CalculatorApp {
     private String currentInput = "";
     private double firstOperand = 0;
     private String operator = "";
-    private boolean i-sOperatorClicked = false;
+    private boolean isOperatorClicked = false;
 
     public CalculatorApp() {
         frame = new JFrame("Calculator");
